@@ -1,0 +1,58 @@
+1. Deadlines
+	- 19.3.2020 - Project plan
+	- 20.3.2020 - Create readme file, Initialize project in Visual Studio (C/C++)
+	- 23.3.2020 - Create interface for math library, GUI
+	- 28.3.2020 - Create tests for math library
+	-  4.4.2020 - Implementation of math library and Tests
+	-  9.4.2020 - Link GUI with math library
+	- 13.4.2020 - Standard deviation
+	- 18.4.2020 - Program documentation in Doxygen, Mockup GUI, Application un/installer, Profiling standard deviation
+	- 20.4.2020 - User documentation, Create Makefile
+	- 22.4.2020 - Create files: hodnoceni.txt
+				    skutecnost.txt
+				    odevzdani.txt
+	-  8.5.2020 - Summarization of problems (individualy)
+	-  9.5.2020 - Presentation
+
+2. Allocation of tasks to the individual project solvers
+	- xvrabl05 Matúš Vráblik:
+		- Initialize project in Visual Studio (C/C++)
+		- Create interface for math library
+		- Create tests for math library
+		- Implementation of math library and Tests
+		- Standard deviation
+
+	- xmatus35 Adrián Matušík:
+		- Create readme file
+		- Create interface for math library
+		- Implementation of math library and Tests
+		- Standard deviation
+		- Create Makefile
+
+
+	- xbartu10 Dávid Bartuš:
+		- GUI interface
+		- Program documentation in Doxygen
+		- Application un/installer
+		- Profiling standard deviation
+
+	- tasks for all:
+		- Project plan
+		- Mockup GUI
+		- User documentation
+		- Link GUI Interface with Math library
+		- Create rating of team members - hodnoceni.txt
+		- Report about differences between the project and reality - skutecnost.txt
+		- Create file odevzdani.txt
+		- Summ of problems - xloginNN_problemy.txt
+		- Presentation
+
+
+3. Communication channels and rules:
+	- communication: Discord (https://discord.gg) 
+			- rules: Everybody has to check at least twice a day
+
+4. Selected VSC and hosting for remote repository:
+	- VSC: Git
+	- Hosting: https://github.com/
+	- Repository: https://github.com/mathew35/IVS-PROJEKT-2
