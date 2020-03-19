@@ -14,4 +14,3 @@ ProjektNaPoslednuChvilu
 
 License
 -------
-
